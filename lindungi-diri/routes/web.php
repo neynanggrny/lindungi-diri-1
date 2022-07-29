@@ -23,3 +23,7 @@ Route::get('/', function () {
 Route::get('/isidata', function() {
     return view('isidata');
 });
+
+Route::get('/tampildata', function() {
+    return view('tampildata');
+});
