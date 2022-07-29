@@ -2,7 +2,7 @@
     <!-- Brand Logo --> 
     <a href="/administrator" class="brand-link"> 
       <img src="/img/AdminLTELogo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8"> 
-      <span class="brand-text font-weight-light">Sarana Prasarana</span> 
+      <span class="brand-text font-weight-light">Lindungi Diri</span> 
     </a> 
  
     <!-- Sidebar --> 
@@ -13,7 +13,7 @@
           <img src="/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image"> 
         </div> 
         <div class="info"> 
-          <a href="/" class="d-block">Dwi Nuryanto</a> 
+          <a href="/" class="d-block">Ferisha Anggraeny</a> 
         </div> 
       </div> 
  
@@ -23,21 +23,21 @@
           <!-- Add icons to the links using the .nav-icon class 
                with font-awesome or any other icon font library --> 
             <li class="nav-item"> 
-                <a href="/kamar" class="nav-link active "> 
+                <a href="/dashbord" class="nav-link active "> 
                 <i class="nav-icon fas fa-tachometer-alt"></i> 
-                <p>Kamar<i class="right fas fa-angle-left"></i></p> 
+                <p>Dashbord<i class="right fas fa-angle-left"></i></p> 
                 </a> 
             </li> 
             <li class="nav-item"> 
-                <a href="/fasilitas-kamar" class="nav-link"> 
+                <a href="/catatan-perjalanan" class="nav-link"> 
                 <i class="nav-icon fas fa-tachometer-alt"></i> 
-                <p>Fasilitas Kamar</p> 
+                <p>Catatan Perjalanan</p> 
                 </a> 
             </li> 
             <li class="nav-item"> 
-                <a href="/fasilitas-umum" class="nav-link"> 
+                <a href="/isi-data" class="nav-link"> 
                 <i class="nav-icon fas fa-tachometer-alt"></i> 
-                <p>Fasilitas Umum</p> 
+                <p>Isi Data</p> 
                 </a> 
             </li> 
           </ul> 
